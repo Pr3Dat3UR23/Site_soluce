@@ -1,0 +1,12 @@
+function foncVert() {
+    let balp= document.querySelector("reponse")
+    if (balp.className=="noir")
+	{
+        balp.classList.remove("noir");
+        balp.classList.add("vert");}
+    else 
+	{
+        balp.classList.remove("vert");
+        balp.classList.add("noir");
+    }
+}

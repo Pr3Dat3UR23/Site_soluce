@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Phoenix Wright Ace Attorney Soluces</title>
+		<style type="text/css"></style>
+		     <link rel="stylesheet" href="Pour_index.css" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	</head>
+	<body>
+		<DIV align=center>
+		<img 
+			src=image/logo.png
+			alt=Logo AT 1
+			width= 500
+		height= 150>
+<br><h5>Ce site contient des spoïls sur Phoenix Wright Ace Attorney.</h5>
+<br><p><b>	Phoenix Wright: Ace Attorney (逆転裁判 蘇る逆転, Gyakuten Saiban : Yomigaeru Gyakuten?) est un jeu vidéo, développé et édité par l'entreprise japonaise Capcom. Il est d'abord sorti sur Game Boy Advance en 2001 au Japon. Le jeu est porté sur Nintendo DS en 2005 au Japon puis en 2006 en Occident. Malgré la construction assez inhabituelle du jeu pour l'Occident, cette version rencontre un succès critique et commercial.
+
+	Le joueur y incarne un avocat débutant, Phoenix Wright, au cours de quatre affaires, dans lesquelles il devra prouver l'innocence de ses clients à force de preuves et de contre-interrogatoires. La version Nintendo DS ajoute un cinquième chapitre.
+
+	Le jeu est par la suite réédité sur Windows en 2005, téléphone mobile en 2007, et WiiWare en 2009/2010. Le jeu est sorti sur iPhone et iPod Touch en 2010, puis a été remastérisé en haute définition et rendu disponible en France le 30 mai 2013 dans l'App Store et le 9 avril 2019 sur Switch, PlayStation 4, Xbox One et Steam en tant que premier volet de la Trilogie.
+<br><br>
+</DIV>
+<a href= "https://www.youtube.com/watch?v=QY7EDGd_B50"> Lien vers le trailer du jeu</a>
+<br><br></p></b>
+<MARQUEE direction="right"><h2>Sommaire :<br></h2></MARQUEE>
+<ul><p>
+	<li><a href="Présentation détaillé.html"><u>Explication détaillé du jeu.</u></a></li>
+	<li><a href="Soluces.html"><u>Liste des solutions.</u></a></li>
+</ul>
+<DIV align=right>
+<img 
+	src=https://static.wikia.nocookie.net/aceattorney/images/4/4d/Objection%21_%28SoJ%29.png/revision/latest?cb=20210615182924
+	alt=Objection !
+	width= 390
+	height= 260>
+</DIV>
+<p><big><u>SAV (service après visionnage)</u></big><br><br>
+<a href="mailto:wylan.caumette@gmail.com"> Contactez-moi </a> <br>
+<a href= "https://www.youtube.com/watch?v=qx5BV__S3DE"> Lien vers format vidéoludique divertissant montrant le jeu dans son intégralité sans commentaires plus communément appelé let's play (En anglais)</a>
+	</body>
+<script src="Script.js"></script>
+</html>	
